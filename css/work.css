@@ -1,0 +1,85 @@
+body
+{
+    padding:0;
+    margin:0;
+}
+.img2
+{
+    margin-left: 660px;
+    border-radius: 50%;
+    width:150px;
+    height: 150px;
+}
+.h31
+{
+   margin-left: 600px;
+   color: purple;
+   font-size: 1.8em;
+}
+
+.pre1
+{
+    text-align:center;
+    margin: 0 0 10px;
+    font-size: 20px;
+    margin-left: 500px;
+    margin-right: 500px;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+.mid
+{
+    height:100%;
+    width:100%;
+    background-color:#27496d;
+}
+.prog2
+{
+    margin-left: 450px;
+    margin-top: 100px;
+    height:50%;
+    width:40%;
+    text-align: center;
+    border-radius: 25px;
+}
+.port
+{
+    text-align: center;
+    color: seashell;
+    font-weight: bold;
+    font-size: 40px;
+}
+.para
+{
+    text-align: center;
+    font-size: 23px;
+    color: bisque;
+    padding-left: 350px;
+    padding-right:350px;
+}
+.mid1
+{
+    height:100%;
+    width:100%;
+    background-color:#ff9a3c;
+}
+.port1
+{
+    text-align: center;
+    color:darkred;
+    font-weight: bold;
+    font-size: 40px;
+}
+.para1
+{
+    text-align: center;
+    font-size: 23px;
+    color: white;
+    padding-left: 350px;
+    padding-right:350px;
+}
+.mid2
+{
+    height:100%;
+    width:100%;
+    background-color:#155263;
+}
